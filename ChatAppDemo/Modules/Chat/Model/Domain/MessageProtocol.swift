@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+protocol MessageProtocol {
+    var id: UUID { get }
+    var senderId: String { get }
+    var createdAt: Date { get }
+}
