@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+enum ChatSection: Hashable {
+    case main
+}

@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+enum ChatItem: Hashable {
+    case text(TextMessageViewData)
+    case image(ImageMessageViewData)
+    case system(SystemMessageViewData)
+}
