@@ -470,26 +470,6 @@ Potential advanced features:
 
 ---
 
-# Interview Topics Covered
-
-This project demonstrates knowledge of:
-
-| Topic                    | Covered |
-| ------------------------ | ------- |
-| Modern UIKit             | ✅       |
-| MVVM-C                   | ✅       |
-| Diffable Data Source     | ✅       |
-| Compositional Layout     | ✅       |
-| Accessibility            | ✅       |
-| Dynamic Type             | ✅       |
-| Coordinator Pattern      | ✅       |
-| State Management         | ✅       |
-| Async UI                 | ✅       |
-| Performance Optimization | ✅       |
-| Realtime Architecture    | ✅       |
-
----
-
 # Learning Goals
 
 By completing this project, you will understand:
